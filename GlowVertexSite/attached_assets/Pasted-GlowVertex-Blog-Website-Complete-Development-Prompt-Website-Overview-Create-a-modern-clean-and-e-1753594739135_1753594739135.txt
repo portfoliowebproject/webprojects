@@ -1,0 +1,154 @@
+GlowVertex Blog Website - Complete Development Prompt
+Website Overview
+Create a modern, clean, and elegant blog website for GlowVertex - a beauty and fashion blog covering Makeup, Skincare, Hair Care, and Fashion.
+Design Requirements
+Visual Style
+
+Clean and minimalist design with plenty of white space
+Modern typography - use elegant, readable fonts
+Soft color palette - pastels, whites, and subtle accent colors
+Professional yet feminine aesthetic
+Mobile-first responsive design
+Fast loading and optimized images
+
+Header Section
+
+Logo: "GlowVertex" with stylish typography
+Navigation Menu: Home, Makeup, Skincare, Hair Care, Fashion, About, Contact
+Search bar (optional but recommended)
+Social media icons (Instagram, Pinterest, YouTube)
+
+Homepage Layout
+
+Hero Section
+
+Welcome message or tagline
+Featured blog post or latest article
+Beautiful background image related to beauty/fashion
+
+
+Category Grid
+
+Four main categories with attractive icons/images:
+
+Makeup 💄
+Skincare ✨
+Hair Care 💇‍♀️
+Fashion 👗
+
+
+
+
+Recent Posts Section
+
+Display 6-8 latest blog posts in a grid
+Each post should show: thumbnail, title, excerpt, date, category tag
+
+
+Newsletter Signup
+
+Simple and attractive signup form
+"Subscribe for beauty tips and updates"
+
+
+
+Blog Post Pages
+
+Clean reading layout with good typography
+Featured image at the top
+Author info and publish date
+Category and tags
+Social sharing buttons
+Related posts section
+Comment section (optional)
+
+Category Pages
+
+Filter and sort options
+Grid layout for blog posts
+Category-specific header/banner
+
+Footer
+
+Quick links (About, Privacy Policy, Contact)
+Social media links
+Copyright information
+Newsletter signup (if not on homepage)
+
+Technical Requirements
+Frontend Technology
+
+HTML5, CSS3, JavaScript
+Responsive CSS Framework (Bootstrap or custom CSS Grid/Flexbox)
+Modern JavaScript for interactive elements
+Smooth animations and hover effects
+
+Key Features
+
+Search functionality
+Category filtering
+Mobile-optimized navigation (hamburger menu)
+Image lazy loading
+Fast page load speeds
+SEO-friendly structure
+
+Content Management
+
+Easy-to-update blog structure
+Image optimization for web
+Clean URLs (/makeup/blog-post-title)
+
+Color Scheme Suggestions
+
+Primary: Soft pink (#F8BBD9) or rose gold
+Secondary: Cream white (#FFF8F0)
+Accent: Gold (#D4AF37) or coral (#FF6B6B)
+Text: Dark gray (#333333)
+Background: Pure white (#FFFFFF)
+
+Typography
+
+Headings: Elegant serif font (Playfair Display, Lora)
+Body text: Clean sans-serif (Inter, Poppins, Open Sans)
+Accent text: Script or stylish font for logos/quotes
+
+Interactive Elements
+
+Smooth hover effects on buttons and links
+Image galleries for makeup tutorials
+Before/after image sliders (for skincare posts)
+Product recommendation boxes
+Social media integration
+
+Content Structure Examples
+Sample Blog Categories:
+
+Makeup: Tutorials, Product Reviews, Trends
+Skincare: Routines, Ingredient Guides, Tips
+Hair Care: Styling Tips, Product Reviews, Hair Health
+Fashion: Outfit Ideas, Trends, Style Guides
+
+Sample Blog Post Titles:
+
+"10-Minute Morning Makeup Routine for Busy Days"
+"Complete Guide to Building Your Skincare Routine"
+"Best Hair Masks for Damaged Hair"
+"Spring Fashion Trends You Need to Try"
+
+Performance Goals
+
+Page load time: Under 3 seconds
+Mobile-friendly: Perfect mobile experience
+SEO optimized: Meta tags, structured data
+Accessibility: WCAG compliant
+
+Additional Features (Optional)
+
+Instagram feed integration
+Product affiliate links (for monetization)
+Beauty quiz or style finder
+Video content support
+Email newsletter integration
+
+
+Goal: Create a professional, user-friendly beauty blog that establishes GlowVertex as a trusted source for makeup, skincare, hair care, and fashion content. The website should inspire visitors and make them want to return regularly for new content.
